@@ -21,7 +21,7 @@ O repositório contém o seguinte:
 
 ## Créditos
 
-O conteúdo deste repositório é derivado do seguinte vídeo no YouTube: [link_para_o_video](link_para_o_video).
+O conteúdo deste repositório é derivado do seguinte vídeo no YouTube: [link_para_o_video](https://www.youtube.com/watch?v=RixFzeltO68).
 
 Para mais informações sobre o uso de FFmpeg, consulte a documentação oficial em [https://ffmpeg.org/documentation.html](https://ffmpeg.org/documentation.html).
 
