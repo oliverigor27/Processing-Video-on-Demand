@@ -25,10 +25,6 @@ O conteúdo deste repositório é derivado do seguinte vídeo no YouTube: [link_
 
 Para mais informações sobre o uso de FFmpeg, consulte a documentação oficial em [https://ffmpeg.org/documentation.html](https://ffmpeg.org/documentation.html).
 
-## Contribuição
-
-Sinta-se à vontade para contribuir para este repositório através de pull requests.
-
 ## Licença
 
 Este projeto está licenciado sob a [Nome_da_Licença](URL_da_Licença). Veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
